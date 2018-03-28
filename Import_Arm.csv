@@ -1,12 +1,12 @@
-﻿Product,Percentage
-Mineral products,18
-Machins ,15
-Foodstuffs,10
-Chemical products,10
-Metals,6.9
-Textile,6.9
-Precious metals,5
-Plastics and rubbers,3.9
-Transportation ,3.3
-Vegetable products,3
-Others,18
+Product	Percentage
+Mineral products	0.18
+Machins 	0.15
+Foodstuffs	0.1
+Chemical products	0.1
+Metals	0.069
+Textile	0.069
+Precious metals	0.05
+Plastics and rubbers	0.039
+Transportation 	0.033
+Vegetable products	0.03
+Others	0.18
